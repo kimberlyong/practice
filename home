@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Page Title</title>
+    <style type="text/css">
+	.size { font-size:48pt; }
+	.bold { font-weight:bold; }
+	.alignCenter { text-align:center; }
+	.upper { text-transform: uppercase; }
+	.italic { font-style:italic; }
+	.underline { text-decoration:underline; }
+	.color { color: silver; }
+	.backgroundImage {
+		background-image: url('https://i.pinimg.com/originals/96/53/c2/9653c235163f74b7a5a3760ac6fb8201.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 500%;
+	}
+    </style>
+<script src="https://kit.fontawesome.com/ad911e230e.js" crossorigin="anonymous"></script>
+</head>
+<body class="backgroundImage alignCenter color size">
+<body>
+<div class="bold upper italic underline">I can do this</div>
+<p></p>
+<i class="fas fa-birthday-cake"></i>
+</body>
+</html>
